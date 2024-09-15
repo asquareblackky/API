@@ -48,14 +48,6 @@ $(document).ready(function () {
     $("#btn").css("justifyContent", "center")
 
 
-    .circle{
-        width: 50px;
-        height: 50px;
-        background-color: red;
-        border-radius: 50%;
-        display: inline-block;
-        margin: 10px;
- 
-    }
+   
 
 });
